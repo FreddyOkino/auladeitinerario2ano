@@ -1,0 +1,22 @@
+nav{
+    background-image: linear-gradient(to right, rgb(3, 3, 158) , rgb(204, 0, 255));
+}
+ul{
+    
+    display: inline-flex;
+}
+li{
+    margin: 5px 20px; 
+    list-style-type: none;
+    position: relative;
+    padding: 0px 20px;
+    color: beige;
+    font-size: 20pt;
+    font-weight: bolder;
+}
+h1{
+    margin-top: 0px;
+}
+li:hover{
+    cursor: pointer;
+}
